@@ -3,8 +3,9 @@
 <!--- ═══════════════════════════════════════════════════════════════════════════════ --->
 
 <p align="center">
-  <img src="https://safal-counter.vercel.app/api/counter?username=safal-techlab" width="500">
+  <img src="https://komarev.com/ghpvc/?username=safal-techlab&color=6B46C1&style=for-the-badge&label=👁️+TOTAL+VISITORS&abbreviated=true">
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=36&duration=2000&pause=500&color=6B46C1&center=true&vCenter=true&width=900&lines=✦+MOHAMED+SAFAL+TS+✦;🚀+ASPIRING+SOFTWARE+ENGINEER;💻+FULL+STACK+DEVELOPER;🧠+AI+%26+ML+ENTHUSIAST;🏗️+SYSTEM+ARCHITECT;🌟+OPEN+SOURCE+CONTRIBUTOR;⚡+CODE.+CREATE.+INNOVATE.+⚡;🔥+THE+FUTURE+IS+NOW+🔥" alt="Typing SVG">
