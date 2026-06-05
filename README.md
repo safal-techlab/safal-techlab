@@ -3,7 +3,7 @@
 <div align="center">
   
   
-  
+  <img src="https://komarev.com/ghpvc/?username=safal-techlab&color=6B46C1&style=flat-square" alt="Profile Views">
   <br>
   <br>
   
