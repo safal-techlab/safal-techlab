@@ -62,17 +62,17 @@
 
 ### **🔧 BACKEND DEVELOPMENT**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,spring,laravel,rails,dotnet,nestjs,graphql,apollo,grpc&perline=13">
+  <img src="https://skillicons.dev/icons?i=nodejs,express&perline=13">
 </p>
 
 ### **💾 DATABASES**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase,sqlite,dynamodb,cassandra,elasticsearch,neo4j&perline=10">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis&perline=10">
 </p>
 
 ### **☁️ CLOUD & DEVOPS**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,vercel,netlify,heroku,jenkins,githubactions,terraform,ansible,prometheus,grafana&perline=14">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp&perline=14">
 </p>
 
 ### **🤖 AI & MACHINE LEARNING**
@@ -82,7 +82,7 @@
 
 ### **🎨 TOOLS & PLATFORMS**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode,idea,postman,linux,ubuntu,windows,nginx,cloudflare&perline=12">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux,ubuntu,windows,cloudflare&perline=12">
 </p>
 
 ---
