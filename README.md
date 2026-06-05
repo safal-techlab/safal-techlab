@@ -15,34 +15,13 @@
 <!--- 📊 PROFESSIONAL BADGES & SOCIAL LINKS --->
 <!--- ═══════════════════════════════════════════════════════════════════════════════ --->
 
-<p align="center">
-  <a href="https://github.com/safal-techlab">
-    <img src="https://img.shields.io/github/followers/safal-techlab?style=for-the-badge&logo=github&labelColor=0D1117&color=6B46C1&label=🔥 FOLLOWERS">
-  </a>
-  <a href="https://github.com/safal-techlab">
-    <img src="https://img.shields.io/badge/📦_PROJECTS-0%2B-6B46C1?style=for-the-badge&logo=github&labelColor=0D1117">
-  </a>
-  <a href="https://github.com/safal-techlab">
-    <img src="https://img.shields.io/github/stars/safal-techlab?style=for-the-badge&logo=github&labelColor=0D1117&color=FFD700&label=⭐ STARS">
-  </a>
-  <a href="https://github.com/safal-techlab">
-    <img src="https://img.shields.io/badge/🔄_COMMITS-15%2B-6B46C1?style=for-the-badge&logo=github&labelColor=0D1117">
-  </a>
-  <a href="https://github.com/safal-techlab">
-    <img src="https://img.shields.io/badge/📊_CONTRIBUTIONS-20%2B-6B46C1?style=for-the-badge&logo=github&labelColor=0D1117">
-  </a>
-  <a href="mailto:mohamedsafalts@outlook.com">
-    <img src="https://img.shields.io/badge/📧_EMAIL-mohamedsafalts%40outlook.com-D14836?style=for-the-badge&logo=gmail&labelColor=0D1117">
-  </a>
-</p>
+
 
 <!--- ═══════════════════════════════════════════════════════════════════════════════ --->
 <!--- 🏆 GITHUB TROPHIES & ACHIEVEMENTS --->
 <!--- ═══════════════════════════════════════════════════════════════════════════════ --->
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=safal-techlab&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15">
-</p>
+
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.&author=Steve%20Jobs" width="85%">
