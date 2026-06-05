@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=36&duration=2000&pause=500&color=6B46C1&center=true&vCenter=true&width=900&lines=✦+MOHAMED+SAFAL+TS+✦;🚀+ASPIRING+SOFTWARE+ENGINEER;💻+FULL+STACK+DEVELOPER;🧠+AI+%26+ML+ENTHUSIAST;🏗️+SYSTEM+ARCHITECT;🌟+OPEN+SOURCE+CONTRIBUTOR;⚡+CODE.+CREATE.+INNOVATE.+⚡;🔥+THE+FUTURE+IS+NOW+🔥" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6B46C1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mohamed+Safal+T+S!;Aspiring+Software+Engineer;Full+Stack+Developer;AI+Enthusiast" alt="Typing SVG">
 </p>
 
 <!--- ═══════════════════════════════════════════════════════════════════════════════ --->
