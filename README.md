@@ -6,29 +6,16 @@
   <img src="https://komarev.com/ghpvc/?username=safal-techlab&color=6B46C1&style=for-the-badge&label=👁️+TOTAL+VISITORS&abbreviated=true">
 </p>
 
-
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6B46C1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mohamed+Safal+T+S!;Aspiring+Software+Engineer;Full+Stack+Developer;AI+Enthusiast" alt="Typing SVG">
 </p>
-
-<!--- ═══════════════════════════════════════════════════════════════════════════════ --->
-<!--- 📊 PROFESSIONAL BADGES & SOCIAL LINKS --->
-<!--- ═══════════════════════════════════════════════════════════════════════════════ --->
-
-
-
-<!--- ═══════════════════════════════════════════════════════════════════════════════ --->
-<!--- 🏆 GITHUB TROPHIES & ACHIEVEMENTS --->
-<!--- ═══════════════════════════════════════════════════════════════════════════════ --->
-
-
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.&author=Steve%20Jobs" width="85%">
 </p>
 
 <!--- ═══════════════════════════════════════════════════════════════════════════════ --->
-<!--- 🔥🔥🔥 ABOUT ME SECTION - COMPREHENSIVE DETAILS 🔥🔥🔥 --->
+<!--- 🔥🔥🔥 ABOUT ME SECTION 🔥🔥🔥 --->
 <!--- ═══════════════════════════════════════════════════════════════════════════════ --->
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35"> **ABOUT ME**
@@ -58,7 +45,7 @@
 </table>
 
 <!--- ═══════════════════════════════════════════════════════════════════════════════ --->
-<!--- 🛠️🛠️🛠️ COMPLETE TECH STACK - ALL TECHNOLOGIES 🛠️🛠️🛠️ --->
+<!--- 🛠️🛠️🛠️ COMPLETE TECH STACK 🛠️🛠️🛠️ --->
 <!--- ═══════════════════════════════════════════════════════════════════════════════ --->
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="35"> **COMPLETE TECH ARSENAL**
@@ -184,28 +171,28 @@
 </div>
 
 <!--- ═══════════════════════════════════════════════════════════════════════════════ --->
-<!--- 🎵🎵🎵 SPOTIFY MUSIC INTEGRATION 🎵🎵🎵 --->
+<!--- 🎵🎵🎵 SPOTIFY MUSIC INTEGRATION - YOUR SPOTIFY ID ADDED 🎵🎵🎵 --->
 <!--- ═══════════════════════════════════════════════════════════════════════════════ --->
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Headphone.png" width="35"> **SPOTIFY - NOW PLAYING**
 
 <p align="center">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0D1117&interchange=false&bar_color=6B46C1&bar_color_cover=false" width="600">
+  <a href="https://open.spotify.com/user/31ewzuzjuuvfug5jj6mgzkrbh56e">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ewzuzjuuvfug5jj6mgzkrbh56e&cover_image=true&theme=novatorem&show_offline=true&background_color=0D1117&interchange=false&bar_color=6B46C1&bar_color_cover=false" width="600">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
+  <a href="https://open.spotify.com/user/31ewzuzjuuvfug5jj6mgzkrbh56e">
     <img src="https://img.shields.io/badge/🎧_LISTEN_ON_SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0D1117">
   </a>
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
+  <a href="https://open.spotify.com/user/31ewzuzjuuvfug5jj6mgzkrbh56e">
     <img src="https://img.shields.io/badge/📱_FOLLOW_ON_SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0D1117">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_ID&width=700&count=5" width="700">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ewzuzjuuvfug5jj6mgzkrbh56e&width=700&count=5" width="700">
 </p>
 
 <p align="center">
@@ -213,7 +200,7 @@
 </p>
 
 <!--- ═══════════════════════════════════════════════════════════════════════════════ --->
-<!--- 🤝🤝🤝 PROFESSIONAL NETWORK & CONNECTIONS 🤝🤝🤝 --->
+<!--- 🤝🤝🤝 PROFESSIONAL NETWORK 🤝🤝🤝 --->
 <!--- ═══════════════════════════════════════════════════════════════════════════════ --->
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Inbox%20Tray.png" width="35"> **PROFESSIONAL NETWORK**
@@ -228,8 +215,7 @@
 | **Twitter/X** | [@safal_techlab](https://x.com/safal_techlab) | 🟢 Tech Updates |
 | **Dev.to** | [@safal-techlab](https://dev.to/safal-techlab) | 🟢 Writing Soon |
 | **YouTube** | Coming Soon | 🟡 Planning |
-| **Instagram** | Coming Soon | 🟡 Planning |
-| **Telegram** | Coming Soon | 🔴 Inactive |
+| **Spotify** | [@31ewzuzjuuvfug5jj6mgzkrbh56e](https://open.spotify.com/user/31ewzuzjuuvfug5jj6mgzkrbh56e) | 🟢 Listening |
 
 </div>
 
@@ -246,17 +232,8 @@
   <a href="https://x.com/safal_techlab">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117">
   </a>
-  <a href="https://dev.to/safal-techlab">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0D1117">
-  </a>
-  <a href="https://t.me/YOUR_TELEGRAM">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117">
-  </a>
-  <a href="https://instagram.com/YOUR_INSTA">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117">
-  </a>
-  <a href="https://youtube.com/@YOUR_CHANNEL">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117">
+  <a href="https://open.spotify.com/user/31ewzuzjuuvfug5jj6mgzkrbh56e">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0D1117">
   </a>
 </p>
 
@@ -326,46 +303,6 @@
 </p>
 
 <!--- ═══════════════════════════════════════════════════════════════════════════════ --->
-<!--- 📝📝📝 LATEST BLOG POSTS 📝📝📝 --->
-<!--- ═══════════════════════════════════════════════════════════════════════════════ --->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Newspaper.png" width="35"> **LATEST BLOG POSTS**
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 **Coming Soon:** My journey from zero to Full Stack Developer
-- 🤖 **Coming Soon:** Building my first AI application with Python
-- 💡 **Coming Soon:** System Design basics for beginners
-- 🌐 **Coming Soon:** Deploying your first web app for free
-- 📱 **Coming Soon:** Mobile development with React Native
-<!-- BLOG-POST-LIST:END -->
-
-<!--- ═══════════════════════════════════════════════════════════════════════════════ --->
-<!--- 🕐🕐🕐 WAKATIME CODING STATISTICS 🕐🕐🕐 --->
-<!--- ═══════════════════════════════════════════════════════════════════════════════ --->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Alarm%20Clock.png" width="35"> **CODING STATISTICS (WakaTime)**
-
-<div align="center">
-  
-  <img src="https://wakatime.com/share/@safal-techlab/statssvg" width="100%">
-  
-</div>
-
-<!--- ═══════════════════════════════════════════════════════════════════════════════ --->
-<!--- 🌍🌍🌍 VISITOR MAP & LOCATION INSIGHTS 🌍🌍🌍 --->
-<!--- ═══════════════════════════════════════════════════════════════════════════════ --->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/World%20Map.png" width="35"> **VISITOR INSIGHTS**
-
-<p align="center">
-  <img src="https://repobeats.axiom.co/api/embed/6d2e3f4a5b6c7d8e9f0a1b2c3d4e5f6a7b8c9d0e.svg" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=safal-techlab&color=6B46C1&style=for-the-badge&label=👁️+TOTAL+VISITORS&abbreviated=true">
-</p>
-
-<!--- ═══════════════════════════════════════════════════════════════════════════════ --->
 <!--- 🎨🎨🎨 ANIMATED FOOTER - THE GRAND FINALE 🎨🎨🎨 --->
 <!--- ═══════════════════════════════════════════════════════════════════════════════ --->
 
@@ -386,12 +323,4 @@
 
 <p align="center">
   <sub>🚀 From Kerala, India with code • Last sync: June 2026 🚀</sub>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/safal-techlab/safal-techlab/output/visitor-map.svg" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=safal-techlab&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15">
 </p>
