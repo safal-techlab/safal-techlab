@@ -52,12 +52,12 @@
 
 ### **🚀 LANGUAGES**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,go,rust,html,css,swift,kotlin,r,php,scala,lua,dart&perline=15">
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,html,css&perline=15">
 </p>
 
 ### **⚡ FRONTEND DEVELOPMENT**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,redux,tailwind,bootstrap,sass,materialui,threejs,webpack,babel,figma,xd,photoshop,illustrator&perline=16">
+  <img src="https://skillicons.dev/icons?i=react,nextjs&perline=16">
 </p>
 
 ### **🔧 BACKEND DEVELOPMENT**
