@@ -211,9 +211,9 @@
 |----------|------|--------|
 | **GitHub** | [@safal-techlab](https://github.com/safal-techlab) | 🟢 Active Daily |
 | **Email** | [mohamedsafalts@outlook.com](mailto:mohamedsafalts@outlook.com) | 🟢 Responds within 24h |
-| **LinkedIn** | [/in/safal-techlab](https://linkedin.com/in/safal-techlab) | 🟢 Building Network |
-| **Twitter/X** | [@safal_techlab](https://x.com/safal_techlab) | 🟢 Tech Updates |
-| **Dev.to** | [@safal-techlab](https://dev.to/safal-techlab) | 🟢 Writing Soon |
+| **LinkedIn** | Coming Soon | 🟢 Building Network |
+| **Twitter/X** | Coming Soon | 🟢 Tech Updates |
+| **Dev.to** | Coming Soon | 🟢 Writing Soon |
 | **YouTube** | Coming Soon | 🟡 Planning |
 | **Spotify** | [@31ewzuzjuuvfug5jj6mgzkrbh56e](https://open.spotify.com/user/31ewzuzjuuvfug5jj6mgzkrbh56e) | 🟢 Listening |
 
@@ -226,10 +226,10 @@
   <a href="mailto:mohamedsafalts@outlook.com">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&labelColor=0D1117">
   </a>
-  <a href="https://linkedin.com/in/safal-techlab">
+  <a>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117">
   </a>
-  <a href="https://x.com/safal_techlab">
+  <a>
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117">
   </a>
   <a href="https://open.spotify.com/user/31ewzuzjuuvfug5jj6mgzkrbh56e">
