@@ -291,15 +291,6 @@
   <a href="https://www.buymeacoffee.com/mohamed_safal">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=0D1117">
   </a>
-  <a href="https://www.patreon.com/safaltechlab">
-    <img src="https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white&labelColor=0D1117">
-  </a>
-  <a href="https://ko-fi.com/safaltechlab">
-    <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=0D1117">
-  </a>
-  <a href="https://github.com/sponsors/safal-techlab">
-    <img src="https://img.shields.io/badge/GitHub_Sponsors-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117">
-  </a>
 </p>
 
 <!--- ═══════════════════════════════════════════════════════════════════════════════ --->
