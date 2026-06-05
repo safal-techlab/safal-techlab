@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <img src="https://safal-counter.vercel.app/api/counter?username=safal-techlab" alt="Profile Views" width="280">
+  
   
   <br>
   <br>
